@@ -13,7 +13,6 @@ Assign in np.array() in inverse of matrix
 Using the np.linalg.matrix_rank
 ### Step 4: 
 print the value and end the program
-
 ## Program:
 ```
 #Program to find the inverse of a matrix.
